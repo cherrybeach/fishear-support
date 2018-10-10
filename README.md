@@ -1,2 +1,1 @@
-"# fishear-support" 
-[com.cherryware@gmail.com](com.cherryware@gmail.com)
+Feel free to make a question [com.cherryware@gmail.com](mailto:com.cherryware@gmail.com)
